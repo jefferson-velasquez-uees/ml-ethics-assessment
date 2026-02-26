@@ -2,7 +2,7 @@
 ### Random Forest vs Regresión Logística — Análisis con SHAP y LIME
 
 **Fecha:** Febrero, 2026
-**Autor:** Jefferson Velasquez
+**Autores:** Frank Macias, Jorge Murillo, Jefferson Velasquez
 **Asignatura:** Machine Learning — Maestría en Inteligencia Artificial
 **Tema:** Explainable AI (XAI), Ética y Transparencia en Sistemas Automatizados
 
